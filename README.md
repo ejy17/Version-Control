@@ -2,7 +2,7 @@
 
 Description of program functions:
 
-\What it does:
+What it does:
 
 
 
