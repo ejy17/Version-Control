@@ -7,4 +7,4 @@ What it does:
 
 
 
-Group members: Ellie Yoon, 
+Group members: Ellie Yoon, Esu-ujin Lkhagvasuren
