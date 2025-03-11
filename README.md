@@ -1,3 +1,8 @@
 # Version-Control
 
-ggggg
+Description of program functions:
+
+
+
+
+Group members: Ellie Yoon, 
